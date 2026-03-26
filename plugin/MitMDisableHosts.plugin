@@ -1,0 +1,6 @@
+#!name=MitM Disable Hosts
+#!desc=Отключение дешифровки ненужных доменов.
+
+
+[MITM]
+hostname = -*.dropbox.com, -*.dropboxapi.com, -*.apple.com, -*.icloud.com-*.mzstatic.com, -*.crashlytics.com, , -*.facebook.com, -*.instagram.com, *
