@@ -1,6 +1,14 @@
 #!name=MitM Disable Hosts
 #!desc=Отключение дешифровки ненужных доменов.
-
+#!author=k4be1
+#!homepage=
+#!icon=https://raw.githubusercontent.com/k4be1/Loon/refs/heads/main/icon/mitm.png
+#!openUrl=
+#!tag=
+#!system=iOS, iPadOS, tvOS, macOS
+#!system_version=15
+#!loon_version=3.2.1(372)
+#!date=26.03.2026
 
 [MITM]
 hostname = -*.dropbox.com, -*.dropboxapi.com, -*.apple.com, -*.icloud.com-*.mzstatic.com, -*.crashlytics.com, , -*.facebook.com, -*.instagram.com, *
