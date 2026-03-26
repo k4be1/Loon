@@ -2,7 +2,7 @@
 #!desc=Отключение дешифровки ненужных доменов.
 #!author=k4be1
 #!homepage=
-#!icon=https://raw.githubusercontent.com/k4be1/Loon/refs/heads/main/icon/mitm.png
+#!icon=https://raw.githubusercontent.com/k4be1/Loon/refs/heads/main/icon/loonmitmlock.png
 #!openUrl=
 #!tag=
 #!system=iOS, iPadOS, tvOS, macOS
