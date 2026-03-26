@@ -11,4 +11,4 @@
 #!date=26.03.2026
 
 [MITM]
-hostname = -*.dropbox.com, -*.dropboxapi.com, -*.apple.com, -*.icloud.com-*.mzstatic.com, -*.crashlytics.com, , -*.facebook.com, -*.instagram.com, *
+hostname = -*.dropbox.com, -*.dropboxapi.com, -*.apple.com, -*.icloud.com, -*.mzstatic.com, -*.crashlytics.com, -*.facebook.com, -*.instagram.com, *
