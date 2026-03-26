@@ -1,0 +1,11 @@
+#!name =Toramp
+#!desc = Постоянный запуск
+#!icon = https://i.imgur.com/lONgzqq.jpg
+#!date = 23.11.2023
+
+
+[Script]
+http-response https://nevles.com/api/v1/user$ script-path= https://raw.githubusercontent.com/k4be1/Loon/refs/heads/main/js/Toramp.js, requires-body=true, timeout=10, tag=Toramp, img-url=https://i.imgur.com/lONgzqq.jpg
+
+[Mitm]
+hostname = %APPEND%nevles.com
